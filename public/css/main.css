@@ -10,7 +10,7 @@
 	height: cover;
 }
 body{
-	background-image: url(Img/notepad.jpg);
+	background-image: url("Img/notepad.jpg");
 	overflow-x: hidden;
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
@@ -19,7 +19,7 @@ body{
 .header{
 	position: relative;
 	width: 100%;
-	background-image: url(Img/header.jpg);
+	background-image: url("Img/header.jpg");
 	height: cover;
 	bottom: 20px;
 	border: 5px solid black;

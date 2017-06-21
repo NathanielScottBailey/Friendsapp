@@ -1,0 +1,57 @@
+.done{
+	position: relative;
+	left: 500px;
+	background-color: white;
+	height: 400px;
+	width: 400px;
+}
+.body{
+	background-color: yellow;
+	height: cover;
+}
+body{
+	background-image: url(/img/notepad.jpg);
+	overflow-x: hidden;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	background-color: white;
+}
+.header{
+	position: relative;
+	width: 100%;
+	background-image: url(/img/header.jpg);
+	height: cover;
+	bottom: 20px;
+	border: 5px solid black;
+}
+.stuff{
+	position: relative;
+	left: 550px;
+	background-color: black;
+	width: 300px;
+	border: 5px solid gold;
+}
+#topb{
+	position: relative;
+	left: 40px;
+	color: #999900;
+}
+#bottomb{
+	position: relative;
+	left: 54px;
+	color: #999900;
+}
+.headerc{
+	color: #999900;
+	position: relative;
+	left: 60px;
+}
+.headerd{
+	color: #999900;
+	position: relative;
+	left: 90px;
+}
+#button{
+	position: relative;
+	left: 120px;
+}
